@@ -1,0 +1,21 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+UserSettings/
+.vs/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated IDE and solution files
+*.csproj
+*.sln
+*.slnx
+
+# Local Unity AI Assistant settings
+ProjectSettings/Packages/com.unity.ai.assistant/Settings.json
