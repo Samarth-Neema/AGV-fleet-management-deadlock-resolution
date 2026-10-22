@@ -82,9 +82,6 @@ Let V denote graph vertices, E graph edges, P AGV processes, R resource types, a
 
 Unity may regenerate local editor and Library files when the project is opened.
 
-## AI Disclosure
-
-AI assistance was used during scenario formulation, code development and debugging, and documentation preparation. Implementation behaviour and reported measurements were checked against the Unity project and recorded test output. Unity's in-editor AI feature was not used because the required subscription or seat was unavailable.
 
 ## Limitations and Future Work
 
@@ -92,6 +89,3 @@ AI assistance was used during scenario formulation, code development and debuggi
 - Routes and task assignments are generated algorithmically.
 - The recorded 30-AGV run completed without a detected Wait-For Graph cycle.
 - Future work includes further validation of live-fleet deadlock scenarios and recovery behaviour, repeated benchmark trials, and richer plant visuals.
-
----
-Developed as an academic Robotics and Automation / Data Structures and Algorithms project.
